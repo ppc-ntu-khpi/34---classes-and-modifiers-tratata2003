@@ -2,7 +2,7 @@
 
 ![NetBeans](https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg)
 -----
-Виконав другу практичну по Java:
+# Виконав другу практичну по Java:
 ## Перше завдання 
 ### Код створення приватних атрибутів:
     private int ID;
